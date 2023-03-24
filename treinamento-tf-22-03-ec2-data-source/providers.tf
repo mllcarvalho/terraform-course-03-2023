@@ -1,7 +1,7 @@
 terraform {
 
   /*backend "s3" {
-    bucket         = "terraform-remote-backend-499618786969"
+    bucket         = "terraform-remote-backend-ACCOUNT_ID"
     key            = "terraform/tfstate/terraform.tfstate"
     region         = "us-east-1"
     encrypt        = true
